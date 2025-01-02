@@ -35,8 +35,8 @@ The data used in this analysis is sourced from the **National Health and Nutriti
 ### 2. Cholesterol Levels
 **Research Question**: Are the average cholesterol levels significantly different between males and females?
 
-- **Null Hypothesis (H₀)**: The average cholesterol level in the sample is not significantly different from a known population mean 200.
-- **Alternative Hypothesis (Hₐ)**: The average cholesterol level in the sample is significantly different from a known population mean 200.
+- **Null Hypothesis (H₀)**: The average cholesterol level in the sample is not significantly different from a known population mean 200 mg/dL.
+- **Alternative Hypothesis (Hₐ)**: The average cholesterol level in the sample is significantly different from a known population mean 200 mg/dL.
 - **Statistical Test**: Two-sample independent t-test.
 - **Results**: Provided in the analysis script.
 
