@@ -68,9 +68,6 @@ The data used in this analysis is sourced from the **National Health and Nutriti
 3. **Interpret Results**:
    - The results of the hypothesis tests and confidence intervals are included in the output cells of the notebooks.
 
-## Results Summary
-- **Insulin**: No significant difference observed (p-value > 0.05, CI contains 0).
-- **Cholesterol**: Significant difference observed (p-value < 0.05, CI does not contain 0).
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
